@@ -3,13 +3,13 @@
   <channel>
     <title>Plug</title>
     <item>
-      <title>Plug 0.3.0</title>
-      <pubDate>Mon, 26 Oct 2026 19:03:15 +0000</pubDate>
-      <sparkle:version>0.3.0</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <title>Plug 0.4.0</title>
+      <pubDate>Mon, 26 Oct 2026 19:17:41 +0000</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Filter New and Deals by plug-in type: Instruments (Synth, Sampler, Drums, Keys, Orchestral), Effects (Reverb, Delay, EQ, Dynamics, Limiter, Distortion, Modulation, Filter, Vocal &amp; pitch, Stereo, Amps, Channel strip, Multi-FX, Mastering, Utility) or MIDI, with counts</li><li>Each plug-in card says what it is under the maker ("Synth · Drums", "Reverb")</li></ul>]]></description>
-      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.3.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="pHgOxkDtsBlNXIJD7hZpDavl3rZEdS8Je3x4VANEp3sn/v7YchDIL2gMXEa+IBiFI5KblTsfO5Z2wrBZPcIyCw==" length="3726529"/>
+      <description><![CDATA[<ul><li>Updates: "Update" downloads the maker's installer and opens it (FabFilter, u-he, Soundtoys), and ejects its disk image when the installer quits: no web browser.</li><li>Updates: vendor hubs are found wherever they are on your Mac (a Kilohearts Installer in Downloads counts); a missing Kilohearts Installer is downloaded and opened.</li><li>Updates: the web page is still there: "Website" on each maker, "Open the Download Page" on each row.</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.4.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="Klz3bLvu+RKhDAUy+Jcxy/n/MCk9m2ggqkMT1UYF10O3cKarTIXlkPtZLkBrG4mKrE+dmm2hC9+Uzth2f3syAw==" length="4976704"/>
     </item>
   </channel>
 </rss>
