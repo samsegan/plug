@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Plug</title>
+    <item>
+      <title>Plug 0.2.0</title>
+      <pubDate>Mon, 26 Oct 2026 18:37:29 +0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Plug updates itself now: it checks every 6 hours and installs a new version when you quit it (Settings › Updates).</li><li>Plug › Check for Updates…, and a Restart to update button in the top bar when one is ready.</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.2.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="UfPFaWzuyTN/h23p3ZjTsFdPf33jHzR7gPCZFwn8E03XEyFkwWs1J0aOCv+tS6U+/qQ4xqhb+Q/cQLMtV4grAw==" length="3617690"/>
+    </item>
+  </channel>
+</rss>
