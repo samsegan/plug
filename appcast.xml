@@ -3,13 +3,13 @@
   <channel>
     <title>Plug</title>
     <item>
-      <title>Plug 0.4.0</title>
-      <pubDate>Mon, 26 Oct 2026 19:17:41 +0000</pubDate>
-      <sparkle:version>0.4.0</sparkle:version>
-      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <title>Plug 0.5.0</title>
+      <pubDate>Mon, 26 Oct 2026 21:14:45 +0000</pubDate>
+      <sparkle:version>0.5.0</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Updates: "Update" downloads the maker's installer and opens it (FabFilter, u-he, Soundtoys), and ejects its disk image when the installer quits: no web browser.</li><li>Updates: vendor hubs are found wherever they are on your Mac (a Kilohearts Installer in Downloads counts); a missing Kilohearts Installer is downloaded and opened.</li><li>Updates: the web page is still there: "Website" on each maker, "Open the Download Page" on each row.</li></ul>]]></description>
-      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.4.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="Klz3bLvu+RKhDAUy+Jcxy/n/MCk9m2ggqkMT1UYF10O3cKarTIXlkPtZLkBrG4mKrE+dmm2hC9+Uzth2f3syAw==" length="4976704"/>
+      <description><![CDATA[<ul><li>Filter by maker: a Maker picker on New, Deals and Updates, with every maker's count, a search box, and A–Z or Most. Right-click a card for Show Only &lt;maker&gt;.</li><li>By maker: group New and Deals under each maker's name, A to Z.</li><li>News and deal posts now show who makes the plug-in, read off the title (96 % of plug-ins get a maker).</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.5.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="8/sztaCMI3RXpBM8Su9lZUWgKVB49a9e3DAP72YZK5pzvPZ/UYHcQZ/riDPNwV0BZuC62S2cloLldGVpndF3BQ==" length="4161538"/>
     </item>
   </channel>
 </rss>
