@@ -3,13 +3,13 @@
   <channel>
     <title>Plug</title>
     <item>
-      <title>Plug 0.6.0</title>
-      <pubDate>Mon, 26 Oct 2026 22:16:49 +0000</pubDate>
-      <sparkle:version>0.6.0</sparkle:version>
-      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <title>Plug 0.6.1</title>
+      <pubDate>Tue, 27 Oct 2026 00:38:24 +0000</pubDate>
+      <sparkle:version>0.6.1</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sam's signature at the right end of the status bar, after the version plate.</li></ul>]]></description>
-      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.6.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="CyNZJeYh/4Gy8vI5PFUodPY1RSz9X0z9mb4oSrLg4HJDbMahnSLWBWfR10rWYmDTIfI2se4JQO89dwta4Y8sCg==" length="4234965"/>
+      <description><![CDATA[<ul><li>The title now reads "PLUG BY SEGAN": the signature sits beside the name instead of in the status bar.</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.6.1/Plug.dmg" type="application/octet-stream" sparkle:edSignature="MuvX2iYjN+mRqG+5qikeSLDilZqOY4GMyDC0W6OeLSIaiv8tDVfCGnm+P1YTw9OFFxlxMwwFSC0aJe+xL96ZBA==" length="5316852"/>
     </item>
   </channel>
 </rss>
