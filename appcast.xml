@@ -3,13 +3,13 @@
   <channel>
     <title>Plug</title>
     <item>
-      <title>Plug 0.8.0</title>
-      <pubDate>Wed, 28 Oct 2026 06:55:31 +0000</pubDate>
-      <sparkle:version>0.8.0</sparkle:version>
-      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <title>Plug 0.9.0</title>
+      <pubDate>Wed, 28 Oct 2026 15:22:23 +0000</pubDate>
+      <sparkle:version>0.9.0</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>A cleaner look: Cold Steel now draws flat blue-grey steel, with no scratches, stains or chips. Settings › Steel brings back Brushed or Gritty if you liked the wear.</li></ul>]]></description>
-      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.8.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="ECClvuZCstLeK51VYxf4kQG5oK6sybZktXYbpVc3qejsD8mFv/34qTKgnljFQRq4i0VkqlOkrkofiQTLvZzLDA==" length="6118753"/>
+      <description><![CDATA[<ul><li>A new layout, after Plugin Station: a sidebar of sections (New, Deals, Samples; Plug-ins and Updates on this Mac; Browse's Plug-ins and Makers), and the item you pick opens beside a plain list</li><li>Where to buy: every store that has a deal, cheapest first</li><li>Filter and sort in one popover: type, maker, price, iLok, has a demo, on this Mac</li><li>Updates as checks: updates out, never used, missing from your projects, Intel only, each maker with one button</li><li>Makers, with each maker's logo, its site, its hub and its whole line</li><li>Settings in the window; the card grid is a setting (Look › Layout)</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.9.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="9ecBxwdkb6q7lmvIxiHAwNnf2sXiBDcNSfYEh5gh9Tr/pcb1hDWD4aR1n7KIp650yDhqqKo3qIZZyFQqr8/UDg==" length="7465287"/>
     </item>
   </channel>
 </rss>
