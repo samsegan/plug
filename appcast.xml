@@ -3,13 +3,13 @@
   <channel>
     <title>Plug</title>
     <item>
-      <title>Plug 0.7.0</title>
-      <pubDate>Tue, 27 Oct 2026 20:32:35 +0000</pubDate>
-      <sparkle:version>0.7.0</sparkle:version>
-      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <title>Plug 0.8.0</title>
+      <pubDate>Wed, 28 Oct 2026 06:55:31 +0000</pubDate>
+      <sparkle:version>0.8.0</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>New Browse tab (⌘5): every product from 132 makers, grouped by maker, including Minimal Audio's whole line. On New and Deals, picking a maker adds a "Whole line" button.</li><li>iLok badge on products that need an iLok licence, and iLok License Manager opens from Plug like Native Access (Plug downloads PACE's installer if it's missing).</li><li>Sound previews: a play button on a card streams its demo inside Plug (Splice packs, Output presets, Ghost Syndicate, HY2ROGEN, Cr2). SoundCloud and YouTube demos open in the browser.</li><li>Updates tab shows which of your plug-ins your projects use: DAWs, project count and last used, with "least used first" and a "Never used" filter. Plug reads Logic, Live and REAPER projects, never changes them, and nothing leaves your Mac. While Plug is open it also notes the plug-ins your DAW loads (Settings › Use turns that off).</li></ul>]]></description>
-      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.7.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="XT13th9YtVZMcozOl6+aXYR1FSJ8BxnECAXBENasuStJ4x4ZhaH1kc9iY+nbAYWeh/tyTuffDW7WDjkKvZmBBQ==" length="6116961"/>
+      <description><![CDATA[<ul><li>A cleaner look: Cold Steel now draws flat blue-grey steel, with no scratches, stains or chips. Settings › Steel brings back Brushed or Gritty if you liked the wear.</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.8.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="ECClvuZCstLeK51VYxf4kQG5oK6sybZktXYbpVc3qejsD8mFv/34qTKgnljFQRq4i0VkqlOkrkofiQTLvZzLDA==" length="6118753"/>
     </item>
   </channel>
 </rss>
