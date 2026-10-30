@@ -3,13 +3,13 @@
   <channel>
     <title>Plug</title>
     <item>
-      <title>Plug 0.9.1</title>
-      <pubDate>Wed, 28 Oct 2026 18:34:02 +0000</pubDate>
-      <sparkle:version>0.9.1</sparkle:version>
-      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <title>Plug 0.10.0</title>
+      <pubDate>Fri, 30 Oct 2026 23:41:33 +0000</pubDate>
+      <sparkle:version>0.10.0</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sections switch about ten times faster: Manufacturers and Browse › Plug-ins in ~0.1 s (was 1–1.4 s), Deals, New and Samples in ~0.1 s (was 0.35–0.6 s).</li><li>Searching Browse no longer stalls on every key: the list updates when you pause.</li><li>A big manufacturer's line (Native Instruments, 446 products) opens twice as fast.</li><li>Makers is now called Manufacturers.</li></ul>]]></description>
-      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.9.1/Plug.dmg" type="application/octet-stream" sparkle:edSignature="UEfoJQ9pIhzc+krDHhpKlgama3mrsHaQDbNhOWXBo229fIFJqIqKh2/Jtld+WH56iutBKozHTm96iFqfNMqTDw==" length="7531860"/>
+      <description><![CDATA[<ul><li>Add Fracture, Minimal Poster and Pixel / Game, with Fracture as the initial default.</li><li>Save a different default from Appearance in Settings. Cold Steel and its texture options remain available.</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.10.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="W5NKvjw+iHyeODuJjL9i8/bfiTDis3419l417NMPK2ALMMwlmznuRi0mKOTPFmTY+Mgx2Gxbe/v8MskoOdMKCA==" length="10129936"/>
     </item>
   </channel>
 </rss>
