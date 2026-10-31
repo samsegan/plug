@@ -3,13 +3,13 @@
   <channel>
     <title>Plug</title>
     <item>
-      <title>Plug 0.11.0</title>
-      <pubDate>Sat, 31 Oct 2026 14:39:55 +0000</pubDate>
-      <sparkle:version>0.11.0</sparkle:version>
-      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <title>Plug 0.11.1</title>
+      <pubDate>Sat, 31 Oct 2026 21:18:48 +0000</pubDate>
+      <sparkle:version>0.11.1</sparkle:version>
+      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Five new skins: 3D / Exploratory, Sculptural / Organic, Minimal / Instrument, Cinematic / Abstract, and Ethereal / Light.</li><li>Ethereal uses solid pearl panels with clearer controls and text, plus a restrained opalescent finish.</li><li>Existing skin choices and RGB waveform settings are preserved.</li></ul>]]></description>
-      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.11.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="tAoGMg+bQVZ9uhB14ZT9hYhBumsQKbyC5KoxMzsz9sFm6sHXlrLDGLA8ZX7Hajqzgkm/iwdtMoymgXSEc+vRAQ==" length="13146274"/>
+      <description><![CDATA[<ul><li>Sharper Spatial, Organic, Cinematic and Ethereal artwork on Retina displays.</li><li>More consistent background detail when resizing windows, with crisp corners and edges.</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.11.1/Plug.dmg" type="application/octet-stream" sparkle:edSignature="gKu2dmabPYJd23LunX6A6WXg0kb9xQt0hDmD2NR82i0z74VYsAPFd8O7pMJUPQHSA0GH1Cliox+28aZBESWWBg==" length="12461692"/>
     </item>
   </channel>
 </rss>
