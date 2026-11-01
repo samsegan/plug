@@ -3,13 +3,13 @@
   <channel>
     <title>Plug</title>
     <item>
-      <title>Plug 0.11.1</title>
-      <pubDate>Sat, 31 Oct 2026 21:18:48 +0000</pubDate>
-      <sparkle:version>0.11.1</sparkle:version>
-      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+      <title>Plug 0.12.0</title>
+      <pubDate>Sun, 01 Nov 2026 16:07:19 +0000</pubDate>
+      <sparkle:version>0.12.0</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sharper Spatial, Organic, Cinematic and Ethereal artwork on Retina displays.</li><li>More consistent background detail when resizing windows, with crisp corners and edges.</li></ul>]]></description>
-      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.11.1/Plug.dmg" type="application/octet-stream" sparkle:edSignature="gKu2dmabPYJd23LunX6A6WXg0kb9xQt0hDmD2NR82i0z74VYsAPFd8O7pMJUPQHSA0GH1Cliox+28aZBESWWBg==" length="12461692"/>
+      <description><![CDATA[<ul><li>Replace Fracture's square artwork tiles with connected smoked-glass frame edges and detailed crack highlights.</li><li>Button edges react to presses and retain a brief memory of repeated interaction, then settle. Reduced Motion keeps the material still.</li><li>Keep waveforms, graphs, filenames and control labels clear.</li></ul>]]></description>
+      <enclosure url="https://github.com/samsegan/plug/releases/download/plug-v0.12.0/Plug.dmg" type="application/octet-stream" sparkle:edSignature="Zb3fzYVRBs0xnBmCCHtc52AF02opbf5RvrLcRRgJlyITdNkJTDSy7+fbCp9jCrxe1+dLtRyQDkjGz2hkW4F9Cg==" length="12853949"/>
     </item>
   </channel>
 </rss>
